@@ -67,8 +67,7 @@ The application will be available at:
 
 ## Tech Stack
 - Frontend: React + TypeScript + Material-UI
-## Technologies Used
-
+  
 - Frontend:
   - React with TypeScript
   - Material-UI
